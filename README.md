@@ -4,6 +4,7 @@ Analyze and plot kpMoSeq dataframes
 This code assumes that you have already run kpMoSeq (https://keypoint-moseq.readthedocs.io/en/latest/) and have generated the following files from your data:
 - moseq_df
 - stats_df
+
 It is helpful to save these dfs as csv files as a checkpoint after finishing kpMoSeq so you don't have to rerun those models and can quickly read in your data.
 
 It generates the following plots:
